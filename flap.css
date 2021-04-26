@@ -1,0 +1,15 @@
+td 		{ margin:0;padding:0;border:0;vertical-align:top; }
+
+#table 		{ height:380px;margin:0;padding:0;border-collapse:collapse; }
+#world 		{ width:900px;overflow:hidden; }
+#avatar 	{ position:absolute; left:120px; }
+#game 		{ margin:10px 100px 10px 100px;width: 930px; }
+#score 		{ margin-top:5px; }
+
+.ad         { margin-left: 200px;}
+.roof 		{ background-color:blue; }
+.top 		{ background-color:blue;width:50px;margin-left:100px; }
+.bottom 	{ background-color:blue;width:50px;margin-left:100px; }
+.floor 		{ background-color:blue; }
+.panel-heading 	{ margin-bottom:5px; }
+.gap 		{ height:40px; }
